@@ -13,4 +13,4 @@ Take and image from the net and drag and drop it inside Markdown:
 
 ## Creating a folder and linking to the source file
 
-<img src="./Pics/IMG_7654.JPG">
+<img src="Pics/IMG_7654.JPG">
